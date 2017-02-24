@@ -1,0 +1,34 @@
+{
+  "name": "butterscotch",
+  "version": "0.0.1",
+  "dependencies": {
+    "butterscotch.add-posts": "latest",
+    "butterscotch.admin-context": "latest",
+    "butterscotch.admin-dashboard": "latest",
+    "butterscotch.admin-permissions": "latest",
+    "butterscotch.admin-theme": "latest",
+    "butterscotch.admin-ui-user-manager": "latest",
+    "butterscotch.admin-user-schema": "latest",
+    "butterscotch.authenticate-admin-ui": "latest",
+    "butterscotch.widget-maker": "latest",
+    "butterscotch.post-schema": "latest",
+    "butterscotch.blog-info": "latest",
+    "butterscotch.media": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FridaySuite/butterscotch.git"
+  },
+  "keywords": [
+    "butterscotch",
+    "friday",
+    "suite"
+  ],
+  "author": "ankitbug94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FridaySuite/butterscotch/issues"
+  },
+  "homepage": "https://github.com/FridaySuite/butterscotch#readme",
+  "description": ""
+}
